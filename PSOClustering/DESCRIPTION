@@ -1,0 +1,15 @@
+
+Package: PSOClustering
+Type: Package
+Title: Clustering with GMM and PSO Optimization
+Version: 0.1.0
+Author: Your Name
+Maintainer: Your Name <your.email@example.com>
+Description: This package provides functions to perform clustering using Gaussian Mixture Models (GMM) and Particle Swarm Optimization (PSO) to optimize Differentially Expressed Gene (DEG) lists.
+License: MIT
+Imports:
+    Seurat,
+    cluster,
+    mclust,
+    dplyr,
+    readxl
